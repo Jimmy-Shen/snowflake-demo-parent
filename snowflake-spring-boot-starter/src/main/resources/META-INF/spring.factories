@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.snowflake.springboot.config.MyBatisUidConfig,\
+com.snowflake.springboot.config.UiAutoConfiguration
